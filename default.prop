@@ -20,11 +20,11 @@ ro.build.type=userdebug
 ro.build.user=ma34s
 ro.build.host=zvw40
 ro.build.tags=test-keys
-ro.product.model=SC01E
+ro.product.model=SC-01E
 ro.product.brand=samsung
 ro.product.name=cm_quincytabdcm
-ro.product.device=SC01E
-ro.product.board=SC01E
+ro.product.device=SC-01E
+ro.product.board=SC-01E
 ro.product.cpu.abi=armeabi-v7a
 ro.product.cpu.abi2=armeabi
 ro.product.manufacturer=samsung
@@ -33,10 +33,10 @@ ro.product.locale.region=US
 ro.wifi.channels=
 ro.board.platform=msm8660
 # ro.build.product is obsolete; use ro.product.device
-ro.build.product=SC01E
+ro.build.product=SC-01E
 # Do not try to parse ro.build.description or .fingerprint
-ro.build.description=SC-01E-user 4.0.4 IMM76D SC01EOMALJ3 release-keys
-ro.build.fingerprint=samsung/SC-01E/SC-01E:4.0.4/IMM76D/SC01EOMALJ3:user/release-keys
+ro.build.description=SC-01E-user 4.0.4 IMM76D SC-01EOMALJ3 release-keys
+ro.build.fingerprint=samsung/SC-01E/SC-01E:4.0.4/IMM76D/SC-01EOMALJ3:user/release-keys
 ro.build.characteristics=default
 ro.cm.device=quincytabdcm
 # end build properties
